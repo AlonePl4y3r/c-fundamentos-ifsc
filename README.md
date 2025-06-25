@@ -1,0 +1,2 @@
+# C-fundamentos-ifsc
+Repositório dedicado aos estudos da linguagem C durante minha formação em Engenharia de Telecomunicações no IFSC. Aqui compartilho anotações, exercícios resolvidos, pequenos projetos, conceitos fundamentais (como ponteiros, structs e manipulação de memória) e uma documentação teórica que venho desenvolvendo ao longo do curso.  O objetivo é registrar meu progresso, reforçar o aprendizado e construir uma base sólida de programação em C — do básico ao avançado, com foco em lógica, organização e prática real.
